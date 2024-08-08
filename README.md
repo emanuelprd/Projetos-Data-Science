@@ -16,5 +16,5 @@ O projeto teve como objetivo aplicar conhecimentos em análise de fatores por co
 O projeto teve como objetivo aplicar conhecimentos em análise de correspondência múltipla (ACM) em uma base de clientes cedida por um banco português, esta base continha diversas variáveis categoricas tais como profissão, educação e faixa etária. A ACM é uma técnica explaratória que transforma variáveis categóricas em coordenadas que podem ser plotadas em um gráfico para identificar de associações entre elas, é muito útil visto que este tipo de variável não pode ser analisada pelos métodos tradicionais como o PCA que é aplicado a variáveis numéricas. As bibliotecas utilizaram foram a prince para a análise de correspondência, o sklearn pois aproveitei os resultados encontrados para fazer uma análise de clusterização e as demais bibliotecas conhecidas como o numpy que foi bastante utilizado para algebra matricial, o pandas e o matplotlib. 
 
 <p align="center">
-<img src="https://github.com/emanuelprd/Data-Science/blob/main/3.1.%20-%20Gr%C3%A1fico%20Correspond%C3%AAncia.png" width="600"/>
+<img src="https://github.com/emanuelprd/Data-Science/blob/main/3.1.%20-%20An%C3%A1lise%20de%20Correspond%C3%AAncia.png" width="600"/>
 </p>
