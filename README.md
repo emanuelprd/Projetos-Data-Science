@@ -13,8 +13,15 @@ O projeto teve como objetivo aplicar conhecimentos em análise de fatores por co
 </p>
 
 ### 3. Análise de Correspondência de Clientes de Instituição Bancária
-O projeto teve como objetivo aplicar conhecimentos em análise de correspondência múltipla (ACM) em uma base de clientes cedida por um banco português, esta base continha diversas variáveis categoricas tais como profissão, educação e faixa etária. A ACM é uma técnica explaratória que transforma variáveis categóricas em coordenadas que podem ser plotadas em um gráfico para identificação de associações entre elas, é muito útil visto que este tipo de variável não pode ser analisada pelos métodos tradicionais como o PCA. As bibliotecas utilizaram foram a prince para a análise de correspondência, o sklearn pois aproveitei os resultados encontrados para rodar um algorítmo de clusterização e as demais bibliotecas conhecidas como o numpy que foi bastante utilizado para algebra matricial, o pandas e o matplotlib. 
+O projeto teve como objetivo aplicar conhecimentos em análise de correspondência múltipla (ACM) em uma base de clientes cedida por um banco português, esta base continha diversas variáveis categoricas tais como profissão, educação e faixa etária. A ACM é uma técnica exploratória que transforma variáveis categóricas em coordenadas que podem ser plotadas em um gráfico para identificação de associações entre elas, é muito útil visto que este tipo de variável não pode ser analisada pelos métodos tradicionais como o PCA. As bibliotecas utilizaram foram a prince para a análise de correspondência, o sklearn pois aproveitei os resultados encontrados para rodar um algorítmo de clusterização e as demais bibliotecas conhecidas como o numpy que foi bastante utilizado para algebra matricial, o pandas e o matplotlib. 
 
 <p align="center">
 <img src="https://github.com/emanuelprd/Data-Science/blob/main/3.1.%20-%20Gr%C3%A1fico%20de%20Correspond%C3%AAncia.png" width="600"/>
+</p>
+
+### 3. Análise de Regressão Linear Simples do Risco e Retorno do Mercado dos EUA
+O projeto teve como objetivo aplicar conhecimentos em análise de regressão linear em uma base de dados de diferentes índices representativos do mercado dos EUA, tais como índices de renda fixa, índices setoriais e do mercado em geral. A análise de regressão é uma técnica estatística preditiva que explora a relação de dependência de uma variável em função de uma ou mais outras variáveis chamadas de independentes ou explicativas, o objetivo do projeto foi estimar a relação entre risco e retorno do mercado norte-americano medido pela inclinação (coeficiente angular) da reta de regressão. As bibliotecas utilizadas foram pandas e yahoo finance para extração e tratamento da minha base de dados, o numpy para algumas operações matemáticas, o matplotlib e seaborn para gráficos, o statsmodels para rodar a regressão (OLS) e o scipy para testes estatísticos. 
+
+<p align="center">
+<img src="https://github.com/emanuelprd/Projetos-Data-Science/blob/main/4.%201.%20-%20An%C3%A1lise%20de%20Regress%C3%A3o%20Linear%20Simples%20Mercado%20EUA.png" width="600"/>
 </p>
