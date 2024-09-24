@@ -23,7 +23,7 @@ O projeto teve como objetivo aplicar conhecimentos em análise de correspondênc
 O projeto teve como objetivo aplicar conhecimentos em análise de regressão linear em uma base de dados de diferentes índices representativos do mercado dos EUA, tais como índices de renda fixa, índices setoriais e do mercado em geral. A análise de regressão é uma técnica estatística preditiva que explora a relação de dependência de uma variável em função de uma ou mais outras variáveis chamadas de independentes ou explicativas, o objetivo do projeto foi estimar a relação entre risco e retorno do mercado norte-americano medido pela inclinação (coeficiente angular) da reta de regressão. As bibliotecas utilizadas foram pandas e yahoo finance para extração e tratamento da minha base de dados, o numpy para algumas operações matemáticas, o matplotlib e seaborn para gráficos, o statsmodels para rodar a regressão (OLS) e o scipy para testes estatísticos. 
 
 <p align="center">
-<img src="https://github.com/emanuelprd/Projetos-Data-Science/blob/main/4.1.%20-%20An%C3%A1lise%20de%20Regress%C3%A3o%20do%20Risco%20e%20Retorno%20do%20Mercado%20dos%20EUA.png" width="700"/>
+<img src="https://github.com/emanuelprd/Projetos-Data-Science/blob/main/4.1.%20-%20Gr%C3%A1fico%20Regress%C3%A3o.png" width="700"/>
 </p>
 
 ### 5. Regressão Logística para Previsão de Falência de Companhias
