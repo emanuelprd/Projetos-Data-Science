@@ -1,3 +1,10 @@
+## Sumário
+#### 1. Análise de Clustering do Mercado dos EUA
+#### 2. Análise de Fatores da Curva de Juros dos EUA
+#### 3. Análise de Correspondência de Clientes de Instituição Bancária
+#### 4. Análise de Regressão do Risco e Retorno do Mercado dos EUA
+#### 5. Regressão Logística para Previsão de Falência de Companhias
+
 ### 1. Análise de Clustering do Mercado dos EUA
 O projeto teve como objetivo aplicar conhecimentos em análise de clustering para agrupar diferentes tickers representativos do mercado financeiro norte-americano, tais como Treasures, Corporate Bonds, Commodities e Equities, o critério utilizado na clusterização foi o retorno e volatilidade históricas. As bibliotecas utilizadas foram a scikit-learn para rodar os algoritmos de clusterização (hierárquico aglomerativo e não-hierárquico k-means), o pingouin para análise de variância (one-way ANOVA), o yfinance para a extração da base de dados do Yahoo Finance e as bibliotecas numpy e pandas para manipulação de números e dataframes e seaborn e matplotlib para plotagem de gráficos.
 
