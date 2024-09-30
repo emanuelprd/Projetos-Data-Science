@@ -3,7 +3,7 @@
 #### 2. Análise de Fatores da Curva de Juros dos EUA
 #### 3. Análise de Correspondência de Clientes de Instituição Bancária
 #### 4. Análise de Regressão do Risco e Retorno do Mercado dos EUA
-#### 5. Regressão Logística para Previsão de Falência de Companhias
+#### 5. Análise de Regressão Logística para Previsão de Falência de Companhias
 
 ### 1. Análise de Clustering do Mercado dos EUA
 O projeto teve como objetivo aplicar conhecimentos em análise de clustering para agrupar diferentes tickers representativos do mercado financeiro norte-americano, tais como Treasures, Corporate Bonds, Commodities e Equities, o critério utilizado na clusterização foi o retorno e volatilidade históricas. As bibliotecas utilizadas foram a scikit-learn para rodar os algoritmos de clusterização (hierárquico aglomerativo e não-hierárquico k-means), o pingouin para análise de variância (one-way ANOVA), o yfinance para a extração da base de dados do Yahoo Finance e as bibliotecas numpy e pandas para manipulação de números e dataframes e seaborn e matplotlib para plotagem de gráficos.
@@ -33,7 +33,7 @@ O projeto teve como objetivo aplicar conhecimentos em análise de regressão lin
 <img src="https://github.com/emanuelprd/Projetos-Data-Science/blob/main/4.1.%20-%20Gr%C3%A1fico%20Regress%C3%A3o.png" width="700"/>
 </p>
 
-### 5. Regressão Logística para Previsão de Falência de Companhias
+### 5. Análise de Regressão Logística para Previsão de Falência de Companhias
 O projeto teve como objtivo aplicar conhecimentos em regressão logística para estimar a probabilidade de falência de empresas com base em seus indicadores financeiros, como o nível de endividamento e ROA. A regressão logística, diferente da linear, é usada para estimar a probabilidade de eventos tais como ter alguma doença cardiáca ou votar em um determinado candidato. O objetivo foi analisar como o certas variáveis financeiras bom base nos estudos de Edward Altman podem ser usadas para mensurar a probabilidade de falência de uma companhia. As bibliotecas utilizadas foram pandas para trabalhar e manipular o dataset, o numpy para algumas operações matemáticas, o seaborn e matplotlib.pyplot para criação de gráficos, o statsmodels para rodar o modelo de regressão logística e o scipy para alguns testes estatísticos. 
 
 <p align="center">
