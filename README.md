@@ -1,9 +1,9 @@
 ## Sumário
-#### 1. Análise de Clustering do Mercado Financeiro dos EUA
-#### 2. Análise de Fatores da Curva de Juros dos EUA
-#### 3. Análise de Correspondência de Clientes de Instituição Bancária
-#### 4. Análise de Regressão do Risco e Retorno do Mercado dos EUA
-#### 5. Análise de Regressão Logística para Previsão de Falência de Companhias
+- 1. Análise de Clustering do Mercado Financeiro dos EUA
+- 2. Análise de Fatores da Curva de Juros dos EUA
+- 3. Análise de Correspondência de Clientes de Instituição Bancária
+- 4. Análise de Regressão do Risco e Retorno do Mercado dos EUA
+- 5. Análise de Regressão Logística para Previsão de Falência de Companhias
 
 ## Modelos
 
