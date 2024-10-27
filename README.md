@@ -47,6 +47,6 @@ O projeto teve como objtivo aplicar conhecimentos em regressão logística para 
 O projeto teve como objetivo  analisar as variáveis macroeconômicas que estão relacionadas ao número de ofertas públicas (IPO + Fallow-On) no Brasil, o termo IPO significa a 'initial public offering' que trata-se da primeira vez que um empresa coloca ações em negociação no mercado e Fallow-On é uma oferta subsequente onde mais ações são colocadas no mercado. Foi feito uma análise de regressão para dados de contagem visto que estamos analisando o número de ofertas públicas (variável discreta) em função de uma série de variáveis macroeconômicas, trabalhei inicialmente com o modelo Poisson e depois o Binomial Negativo devido a possível diagnóstico de superdispersão, no final comparei ambos os resultados e a relevância das variáveis para explicar o fenômeno estudado. As bibliotecas utilizadas foram o numpy e pandas para trabalhar com a base de dados, o seaborn e matplotlib para gerar gráficos, o stats para gerar a estatística chi-quadrado, o statamodels para rodar os modelos poisson e binomial negativo e o statstests para rodar diagnóstico de superdispersão. 
 
 <p align="center">
-<img src="https://github.com/emanuelprd/Projetos-Data-Science/blob/main/6.1.%20-%20Gr%C3%A1fico%20Regress%C3%A3o%20Poisson.png" width="750"/>
+<img src="https://github.com/emanuelprd/Projetos-Data-Science/blob/main/6.1.%20-%20Gr%C3%A1fico%20Regress%C3%A3o%20Poisson.png" width="700"/>
 </p>
 
