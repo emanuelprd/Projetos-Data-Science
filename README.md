@@ -4,7 +4,7 @@
 3. Análise de Correspondência de Clientes de Instituição Bancária
 4. Análise de Regressão do Risco e Retorno do Mercado dos EUA
 5. Análise de Regressão Logística para Previsão de Falência de Companhias
-6. Análise de Regressão Poisson e BNeg para Estimação de Ofertas Públicas
+6. Análise de Regressão Poisson e BNeg para Análise de Ofertas Públicas
 
 ## Modelos
 
