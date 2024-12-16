@@ -50,3 +50,11 @@ O projeto teve como objetivo  analisar as variáveis macroeconômicas que estão
 <img src="https://github.com/emanuelprd/Projetos-Data-Science/blob/main/6.1.%20-%20Gr%C3%A1fico%20Regress%C3%A3o%20Poisson.png" width="700"/>
 </p>
 
+### 7. Análise de Regressão Multinomial
+
+(EM CONSTRUÇÃO)
+
+### 8. Análise de Séries Temporais com o Modelo ARIMA aplicado ao Ibovespa
+O projeto teve como objetivo estimar um modelo ARIMA (Autoregressive Integrated Moving Average) para prever o Ibovespa, principal índice de ações do Brasil, utilizando dados históricos dos últimos 15 anos. Foi seguido os procedimentos tradicionalmente indicados para a correta identificação do modelo, tais como teste para identificar quantas defasagens são necessarias para tornar a série estacionária, com base nos gráficos de ACF e PACF quais os parâmetros autoregressivos e de médias móveis, posteriormente foi analisado os resíduos onde foi verificado que seguiam um ruído branco, ou seja, o modelo capturou adequadamente bem a estrutura temporal da série. As bibliotecas utilizadas incluíram yfinance para a extração da cotação do Ibovespa, statsmodels, scipy e sklearn para o rodar o modelo ARIMA e calcular os testes e métricas de erro, pandas para trabalhar com os dados em formato dataframe, o matplotlib e seaborn para geração de gráficos e o numpy para normalizar os dados. 
+
+
