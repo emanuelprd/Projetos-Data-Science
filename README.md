@@ -8,7 +8,7 @@
 7. Análise de Regressão Multinível (Em Construção)
 8. Análise de Séries Temporais com o Modelo ARIMA aplicado ao Ibovespa
 
-## Modelos
+## Projetos
 
 ### 1. Análise de Clustering do Mercado Financeiro dos EUA
 O projeto teve como objetivo aplicar conhecimentos em análise de clustering para agrupar diferentes tickers representativos do mercado financeiro norte-americano, tais como Treasures, Corporate Bonds, Commodities e Equities, o critério utilizado na clusterização foi o retorno e volatilidade históricas. As bibliotecas utilizadas foram a scikit-learn para rodar os algoritmos de clusterização (hierárquico aglomerativo e não-hierárquico k-means), o pingouin para análise de variância (one-way ANOVA), o yfinance para a extração da base de dados do Yahoo Finance e as bibliotecas numpy e pandas para manipulação de números e dataframes e seaborn e matplotlib para plotagem de gráficos.
