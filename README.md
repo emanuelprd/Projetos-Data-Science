@@ -1,4 +1,4 @@
-## Sumário
+![image](https://github.com/user-attachments/assets/247e3202-8dd9-4c21-b062-cd2c5dc614b7)## Sumário
 1. Análise de Clustering do Mercado Financeiro dos EUA
 2. Análise de Fatores da Curva de Juros dos EUA
 3. Análise de Correspondência de Clientes de Instituição Bancária
@@ -64,5 +64,9 @@ O projeto teve como objetivo estimar um modelo ARIMA (Autoregressive Integrated 
 <img src="https://github.com/emanuelprd/Projetos-Data-Science/blob/main/8.%20An%C3%A1lise%20de%20S%C3%A9ries%20Temporais/8.1.%20Gr%C3%A1fico%20S%C3%A9ries%20Temporais.png" width="700"/>
 </p>
 
+### 9. Análise de Regressão Baseado em Árvores para a Previsão da Inflação Brasileira
+Este projeto explora a aplicação de modelos baseados em árvores (Decision Tree, Random Forest e XGBoost) para prever a inflação no Brasil, utilizando dados extraídos do Sistema Gerenciador de Séries Temporais (SGS) do Banco Central e selecionei as variáveis com base em artigo do BCB utilizando valores defasados em até 3 meses. Os modelos baseados em árvores fazem previsões estruturando a tomada de decisão de forma hierárquica, desde um nó raiz que recebe os dados de treinamento até os nós folha onde ocorrem as previsões, podendo ser utilizado tanto para classificação quanto para regressão que foi o caso. Os modelos foram capazes de prever parcialmente a inflação na base de teste (out-of-sample) evidenciando a robustez destes modelos, as bibliotecas utilizadas foram bibliotecas o Pandas para manipulação de dataframes, o Scikit-learn para rodar as arvores de decisão e o randomforest e a XGBoost para rodar o XGBRegressor, e a avaliação do desempenho dos modelos foi conduzida por meio de métricas como o coeficiente R².
 
-
+<p align="center">
+<img src="https://github.com/emanuelprd/Projetos-Data-Science/blob/main/9.%20An%C3%A1lise%20com%20Modelos%20Baseados%20em%20%C3%81rvores/9.1.%20Gr%C3%A1fico%20Modelo%20%C3%81rvores.png?raw=true" width="700"/>
+</p>
