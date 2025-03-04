@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/247e3202-8dd9-4c21-b062-cd2c5dc614b7)## Sumário
+## Sumário
 1. Análise de Clustering do Mercado Financeiro dos EUA
 2. Análise de Fatores da Curva de Juros dos EUA
 3. Análise de Correspondência de Clientes de Instituição Bancária
