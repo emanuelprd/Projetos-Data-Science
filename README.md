@@ -6,7 +6,8 @@
 5. Análise de Regressão Logística para Previsão de Falência de Companhias
 6. Análise de Regressão Poisson e BNeg para Análise de Ofertas Públicas
 7. Análise de Regressão Multinível (Em Construção)
-8. Análise de Séries Temporais com o Modelo ARIMA aplicado ao Ibovespa
+8. Análise de Séries Temporais com o Modelo ARIMA Aplicado ao Ibovespa
+9. Análise de Regressão Baseado em Árvores para a Previsão da Inflação Brasileira
 
 ## Projetos
 
