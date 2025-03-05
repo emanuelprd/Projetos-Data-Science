@@ -5,7 +5,7 @@
 4. Análise de Regressão do Risco e Retorno do Mercado dos EUA
 5. Análise de Regressão Logística para Previsão de Falência de Companhias
 6. Análise de Regressão Poisson e BNeg para Análise de Ofertas Públicas
-7. Análise de Regressão Multinível (Em Construção)
+7. Análise de Regressão Multinível (em Construção)
 8. Análise de Séries Temporais com o Modelo ARIMA Aplicado ao Ibovespa
 9. Análise de Regressão Baseado em Árvores para a Previsão da Inflação Brasileira
 
@@ -68,5 +68,5 @@ O projeto teve como objetivo estimar um modelo ARIMA (Autoregressive Integrated 
 Este projeto explora a aplicação de modelos baseados em árvores (Decision Tree, Random Forest e XGBoost) para prever a inflação no Brasil, utilizando dados extraídos do Sistema Gerenciador de Séries Temporais (SGS) do Banco Central e selecionei as variáveis com base em artigo do BCB utilizando valores defasados em até 3 meses. Os modelos baseados em árvores fazem previsões estruturando a tomada de decisão de forma hierárquica, desde um nó raiz que recebe os dados de treinamento até os nós folha onde ocorrem as previsões, podendo ser utilizado tanto para classificação quanto para regressão que foi o caso. Os modelos foram capazes de prever parcialmente a inflação na base de teste (out-of-sample) evidenciando a robustez destes modelos, as bibliotecas utilizadas foram bibliotecas o Pandas para manipulação de dataframes, o Scikit-learn para rodar as arvores de decisão e o randomforest e a XGBoost para rodar o XGBRegressor, e a avaliação do desempenho dos modelos foi conduzida por meio de métricas como o coeficiente R².
 
 <p align="center">
-<img src="https://github.com/emanuelprd/Projetos-Data-Science/blob/main/9.%20An%C3%A1lise%20com%20Modelos%20Baseados%20em%20%C3%81rvores/9.1.%20Gr%C3%A1fico%20Modelo%20%C3%81rvores.png?raw=true" width="700"/>
+<img src="https://github.com/emanuelprd/Projetos-Data-Science/blob/main/9.%20An%C3%A1lise%20com%20Modelos%20Baseado%20em%20%C3%81rvores/9.1.%20Gr%C3%A1fico%20%C3%81rvores%20Infla%C3%A7%C3%A3o.png?raw=true" width="700"/>
 </p>
